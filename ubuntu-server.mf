@@ -1,0 +1,2 @@
+SHA256(ubuntu-server.ovf)= 310210eac1300cde7726e98498c632dd758671f228c69014b0503cfbaac8f019
+SHA256(ubuntu-server-disk1.vmdk)= a15fc54e4db556cb9ee1da9f5b8e4792cff11ebe4660207482fee2e5a6d75440
